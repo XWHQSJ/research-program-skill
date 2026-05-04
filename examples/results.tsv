@@ -1,0 +1,4 @@
+run_id	commit	metric	status	description	log_path
+baseline	abc1234	0.8123	baseline	initial baseline	runs/baseline/run.log
+exp001	def5678	0.8051	keep	lower learning rate	runs/exp001/run.log
+exp002	0000000	0.0000	crash	larger batch OOM	runs/exp002/run.log

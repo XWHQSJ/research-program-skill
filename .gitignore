@@ -3,5 +3,5 @@
 .env.*
 *.log
 runs/
-results.tsv
+/results.tsv
 __pycache__/
