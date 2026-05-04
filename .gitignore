@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+*.log
+runs/
+results.tsv
+__pycache__/
