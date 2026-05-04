@@ -4,8 +4,8 @@ A portable research workflow skill for Claude Code, Codex CLI, and Cursor Agent.
 
 It combines two useful ideas:
 
-- `ml-intern`: discovery, evidence labeling, and trace discipline for research work
-- `autoresearch`: baseline-first, metric-first, one experiment at a time
+- [`huggingface/ml-intern`](https://github.com/huggingface/ml-intern): discovery, evidence labeling, and trace discipline for research work
+- [`karpathy/autoresearch`](https://github.com/karpathy/autoresearch): baseline-first, metric-first, one experiment at a time
 
 The default mode is one-shot. Run one baseline or one experiment, record the result, then stop.
 
